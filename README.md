@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 라이브러리
+- dio: 5.0.0 (통신)
+- flutter_secure_storage: 8.0.0 (스토리지 라이브러리)
+- cupertino_icons: 1.0.2 (아이콘)
